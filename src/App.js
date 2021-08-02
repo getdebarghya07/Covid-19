@@ -13,7 +13,7 @@ function App() {
         <Hero />
         <Buttons />
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/Covid-19" exact component={Home} />
         </Switch>
         <Refreshtotop />
         <Footer />

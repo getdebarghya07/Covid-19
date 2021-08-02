@@ -17,7 +17,7 @@ function Buttons() {
                 spy={true}
                 offset={0}
                 duration={100}
-                to="/"
+                to="Covid-19"
                 smooth={true}
                 className="nav--links"
                 onClick={closeMobileMenu}
