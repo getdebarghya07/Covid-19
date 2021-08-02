@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+.mainnews {
+  position: relative;
+  margin: auto;
+  top: 15em;
+  margin-bottom: 30em;
+}
+.crd {
+  position: relative;
+  display: inline-block;
+  width: 40vw;
+  height: 50vh;
+  background-color: aqua;
+}
+
+.imgs {
+  width: 40vh;
+}
+
+.cntnws {
+  position: relative;
+  bottom: -250px;
+  height: 24vh;
+  background-color: rgb(240, 240, 229);
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  font-family: "Roboto Mono", monospace;
+}
+
+.newsLink {
+  color: black;
+  text-decoration: none;
+}
+
+.headerNews {
+  margin: 4em 0em;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+}
+.mb-5 {
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  margin-top: 2em;
+}
