@@ -13,4 +13,5 @@ User can know the Current Statewise Vaccant Beds in Hospitals.
 ## Current News on Covid-19
 During this pandemic it is necessary to remain up to date with current news on Covid-19. So there's a dedicated section for Covid-19 news only.
 
+This project is created using React library and COvid19india API
 The site is hosted [here](https://getdebarghya07.github.io/Covid-19/)
